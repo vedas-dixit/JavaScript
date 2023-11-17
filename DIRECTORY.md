@@ -103,6 +103,7 @@
   * **Vectors**
     * [Vector2](Data-Structures/Vectors/Vector2.js)
 * **Dynamic-Programming**
+  * [Abbreviation](Dynamic-Programming/Abbreviation.js)
   * [CatalanNumbers](Dynamic-Programming/CatalanNumbers.js)
   * [ClimbingStairs](Dynamic-Programming/ClimbingStairs.js)
   * [CoinChange](Dynamic-Programming/CoinChange.js)
